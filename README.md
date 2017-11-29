@@ -1,0 +1,1 @@
+# node-bip32-derive-memorizer
